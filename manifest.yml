@@ -1,0 +1,8 @@
+---
+applications:
+
+- name: PasWDemoApp
+  random-route: true
+  memory: 512M
+  buildpack: hwc_buildpack
+  stack: windows
